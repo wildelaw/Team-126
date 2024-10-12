@@ -1,11 +1,11 @@
 ### 2024 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: `126`  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: `Beach Front`    
   
-#### Your teamâ€™s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+#### Your team's hackathon idea in One sentence:
+##### `As an early dementia patient who manages their own care, I want my healthcare provider to provide assistive and adaptive technology so that I can continue to manage my health even though I may have difficulties remembering.`
 
 
 #### A visual
