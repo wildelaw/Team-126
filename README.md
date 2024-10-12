@@ -5,7 +5,7 @@
 > - Customize the template and rename it as README.md to replace the original README.md file **by 4:30 p.m.**
 
 > - For a proposal, please provide us with the following:
->   - Your team name and members
+>   - Beach Front - (Bradley Lawson, Chris Lawson)
 >   - A title for your idea
 >   - Hackathon theme it ties to (see list on site)
 >   - A sentence describing your idea
